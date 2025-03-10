@@ -10,7 +10,7 @@
 
 ## 快速鍵
 
-* NVDA+h 翻譯目前朗讀的內容
+* NVDA+j 翻譯目前朗讀的內容
 * NVDA+ctrl+shift+j 打開或關閉時時翻譯
 * NVDA+ctrl+j 翻譯剪貼版或選取的內容
 * NVDA+win+shift+j 清除緩存的翻譯紀錄
